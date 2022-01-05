@@ -1,5 +1,6 @@
 
 body{
+    margin: none;
     font-family: 'Poppins', sans-serif;
 }
 section{
@@ -14,8 +15,139 @@ section{
     margin-top: 8%;
 }
 .about1 h1{
-    border-left: 10px solid rgb(255, 129, 150);
+    border-left: 20px solid rgb(255, 129, 150);
     border-radius: 10px;
-    font-size: 100px;
+    font-size: 300px;
     padding-left: 20px;
+    
+}
+.about1 p{
+    font-size: 100px;
+}
+.bar1 img{
+    height: 100%;
+    margin-left: 18%;
+    margin-top: 100px;
+    margin-right: 700px;
+
+}
+.bar1 a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 90px;
+    background-color: rgb(241, 123, 143);
+    padding: 40px;
+    border-radius: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.mission{
+    margin-top: 500px;
+    text-align: center;
+    font-size: 200px;
+    color: darkblue;
+}
+.mymission{
+
+    margin: 100px;
+    border-radius: 100px;
+    width: 30%;
+}
+.mission1{
+    background-color: rgb(240, 220, 220);
+    margin-left: 800px;
+}
+.vission{
+    background-color: rgb(215, 241, 217);
+}
+.goal{
+    background-color: rgb(235, 231, 211);
+    margin-right: 700px;
+}
+.mymission h1{
+    font-size: 100px;
+    margin-left: 100px;
+}
+.mymission p{
+    text-align: justify;
+    font-size: 80px;
+    padding: 100px;
+}
+.dev-pic{
+    width: 25%;
+    margin-top: 400px;
+    margin-left: 800px;
+
+}
+.dev-pic img{
+    margin-right: 0%;
+}
+.dev-disc{
+    width: 60%;
+}
+.dev-disc h1{
+    margin-top:  600px; ;
+    font-size: 150px;
+
+}
+.dev-disc p{
+    text-align: justify;
+    padding-right: 400px;
+    font-size: 90px;
+}
+.dev-disc a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 90px;
+    background-color: rgb(241, 123, 143);
+    padding: 40px;
+    border-radius: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.know-pic{
+    margin-top: 400px;
+
+}
+.know-disc{
+    width: 60%;
+    padding-left: 800px;
+}
+.know-disc a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 90px;
+    background-color: rgb(241, 123, 143);
+    padding: 40px;
+    border-radius: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.know-disc p{
+    text-align: justify;
+    padding-right: 400px;
+    font-size: 90px;
+}
+
+.know-disc h1{
+    margin-top:  500px; ;
+    font-size: 150px;
+}
+footer{
+    margin: 0%;
+    height: 600px;
+    background-color: black;
+    text-align: center;
+}
+footer h1{
+    color: whitesmoke;
+    padding-top: 50px;
+    font-size: 150px;
+    font-family: 'Vujahday Script', cursive;
+    padding-bottom: 0px];
+}
+footer p{
+    font-size: 50px;
+    padding-bottom: 100px;
 }
