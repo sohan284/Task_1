@@ -134,6 +134,38 @@ section{
     margin-top:  500px; ;
     font-size: 150px;
 }
+.corona{
+    margin-left: 800px;
+    width: 23%;
+}
+.corona img{
+    margin-top: 300px;
+    border-radius: 100px;
+    height: 1500px;
+    width: 1500px;
+}
+.corona-disc h1{
+    font-size: 150px;
+    margin-top: 550px;
+    padding-left: 200px;
+}
+.corona-disc p{
+    padding-left: 200px;
+    text-align: justify;
+    font-size: 90px;
+    margin-right: 600px;
+}
+.corona-disc a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 90px;
+    background-color: rgb(241, 123, 143);
+    padding: 40px;
+    border-radius: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 200px;
+}
 footer{
     margin: 0%;
     height: 600px;
@@ -141,13 +173,15 @@ footer{
     text-align: center;
 }
 footer h1{
-    color: whitesmoke;
+    color: rgba(214, 207, 207, 0.877);
     padding-top: 50px;
     font-size: 150px;
     font-family: 'Vujahday Script', cursive;
     padding-bottom: 0px];
 }
+
 footer p{
+    color: rgba(245, 245, 245, 0.644);
     font-size: 50px;
     padding-bottom: 100px;
 }
