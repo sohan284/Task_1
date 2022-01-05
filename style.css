@@ -1,0 +1,21 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+}
+.bar1{
+    width: 50%;
+}
+.about1{
+   
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.about1 h1{
+    border-left: 10px solid rgb(255, 129, 150);
+    border-radius: 10px;
+    font-size: 100px;
+    padding-left: 20px;
+}
