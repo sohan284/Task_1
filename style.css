@@ -6,182 +6,216 @@ body{
 section{
     display: flex;
 }
+.first-sec{
+    height: 500px;
+    margin-bottom: 200px;
+}
 .bar1{
     width: 50%;
 }
 .about1{
    
     margin-left: 10%;
-    margin-top: 8%;
+    margin-top: 7%;
 }
 .about1 h1{
-    border-left: 20px solid rgb(255, 129, 150);
-    border-radius: 10px;
-    font-size: 300px;
-    padding-left: 20px;
+    border-left: 5px solid rgb(255, 129, 150);
+    border-radius: 6px;
+    font-size: 60px;
+    padding-left: 15px;
     
 }
 .about1 p{
-    font-size: 100px;
+    font-size: 20px;
+    text-align: justify;
+
 }
 .bar1 img{
-    height: 100%;
+    width: 50%;
     margin-left: 18%;
-    margin-top: 100px;
-    margin-right: 700px;
+    margin-top: 10px;
+    margin-right: 70px;
 
 }
 .bar1 a{
     color: whitesmoke;
     text-decoration: none;
-    font-size: 90px;
+    font-size: 20px;
     background-color: rgb(241, 123, 143);
-    padding: 40px;
-    border-radius: 40px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.missionh1{
+    font-size: 60px;
+    margin-top: 0px;
+    text-align: center;
+    color: navy;
 }
 .mission{
-    margin-top: 500px;
+    margin-top: 5px;
     text-align: center;
-    font-size: 200px;
+    font-size: 20px;
     color: darkblue;
 }
 .mymission{
 
-    margin: 100px;
-    border-radius: 100px;
+    margin: 10px;
+    border-radius: 10px;
     width: 30%;
+    padding: 2%;
 }
+
 .mission1{
     background-color: rgb(240, 220, 220);
-    margin-left: 800px;
+    margin-left: 10%;
 }
 .vission{
     background-color: rgb(215, 241, 217);
 }
 .goal{
     background-color: rgb(235, 231, 211);
-    margin-right: 700px;
+    margin-right: 10%;
 }
 .mymission h1{
-    font-size: 100px;
-    margin-left: 100px;
+    font-size: 29px;
+    margin-left: 20px;
 }
 .mymission p{
     text-align: justify;
-    font-size: 80px;
-    padding: 100px;
+    font-size: 16px;
+    padding-left: 5%;
+}
+.mymission img{
+    height: 150px;
 }
 .dev-pic{
     width: 25%;
-    margin-top: 400px;
-    margin-left: 800px;
+    margin-top: 40px;
+    margin-left: 80px;
 
 }
 .dev-pic img{
     margin-right: 0%;
+    width: 100%;
+    margin-left: 22%;
+    margin-top: 20%;
 }
 .dev-disc{
-    width: 60%;
+    width: 75%;
+    text-align: justify;
+    margin-left: 8%;
+    margin-top: 5%;
 }
 .dev-disc h1{
-    margin-top:  600px; ;
-    font-size: 150px;
+    margin-top:  60px; 
+    font-size: 30px;
 
 }
 .dev-disc p{
     text-align: justify;
-    padding-right: 400px;
-    font-size: 90px;
+    padding-right: 40px;
+    font-size: 16px;
+    padding-right: 15%;
+    padding-bottom: 20px;
 }
 .dev-disc a{
     color: whitesmoke;
     text-decoration: none;
-    font-size: 90px;
+    font-size: 20px;
     background-color: rgb(241, 123, 143);
-    padding: 40px;
-    border-radius: 40px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
-.know-pic{
-    margin-top: 400px;
+.know-pic img{
+    width: 100%;
+   height: 450px;
+   margin-top: 20%;
 
 }
 .know-disc{
     width: 60%;
-    padding-left: 800px;
+    padding-left: 9%;
+    margin-top: 5%;
+
 }
 .know-disc a{
     color: whitesmoke;
     text-decoration: none;
-    font-size: 90px;
+    font-size: 20px;
     background-color: rgb(241, 123, 143);
-    padding: 40px;
-    border-radius: 40px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    padding-left: 30px;
+    padding-right: 30px;
 
 }
 .know-disc p{
     text-align: justify;
-    padding-right: 400px;
-    font-size: 90px;
+    padding-right: 40px;
+    font-size: 16px;
+    padding-right: 15%;
+    padding-bottom: 20px;
 }
 
 .know-disc h1{
-    margin-top:  500px; ;
-    font-size: 150px;
+    margin-top:  60px; 
+    font-size: 30px;
 }
 .corona{
-    margin-left: 800px;
-    width: 23%;
+    margin-left: 100px;
+    width: 25%;
+    margin-right: 5%;
 }
 .corona img{
-    margin-top: 300px;
-    border-radius: 100px;
-    height: 1500px;
-    width: 1500px;
+    margin-top: 20%;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    margin-left: 25%;
 }
 .corona-disc h1{
-    font-size: 150px;
-    margin-top: 550px;
-    padding-left: 200px;
+    font-size: 22px;
+    margin-top: 10%;
+    padding-left: 10%;
 }
 .corona-disc p{
-    padding-left: 200px;
+    padding-right: 100px;
+    padding-left: 10%;
     text-align: justify;
-    font-size: 90px;
-    margin-right: 600px;
+    font-size: 16px;
+    margin-right: 60px;
+    padding-bottom: 30px;
 }
 .corona-disc a{
     color: whitesmoke;
     text-decoration: none;
-    font-size: 90px;
+    font-size: 20px;
     background-color: rgb(241, 123, 143);
-    padding: 40px;
-    border-radius: 40px;
-    padding-left: 100px;
-    padding-right: 100px;
-    margin-left: 200px;
+    padding: 10px;
+    border-radius: 4px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10%;
 }
 footer{
-    margin: 0%;
-    height: 600px;
+    margin-top: 10%;
     background-color: black;
     text-align: center;
 }
 footer h1{
     color: rgba(214, 207, 207, 0.877);
-    padding-top: 50px;
-    font-size: 150px;
+    padding-top: 5px;
+    font-size: 40px;
     font-family: 'Vujahday Script', cursive;
-    padding-bottom: 0px];
+    padding-bottom: 0px;
 }
 
 footer p{
     color: rgba(245, 245, 245, 0.644);
-    font-size: 50px;
-    padding-bottom: 100px;
+    font-size: 15px;
+    padding-bottom: 80px;
 }
